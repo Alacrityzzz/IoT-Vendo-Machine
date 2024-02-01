@@ -1,4 +1,5 @@
-
+// ALL RIGHTS RESERVED 2023-2024
+// COPYRIGHT @IVENTAMO | KEVIN RAIZEAN TOBIAS
 #include <Servo.h>
 #include <LiquidCrystal_I2C.h>
 
